@@ -5,10 +5,11 @@
   "main": "index.js",
   "type": "module",
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "scripts": {
-    "run": "node bin/brain-games.js",
+    "run": "node bin/brain-even.js",
     "lint-fix": "npx eslint . --fix"
   },
   "repository": {
