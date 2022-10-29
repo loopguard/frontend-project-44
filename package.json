@@ -8,8 +8,8 @@
     "brain-games": "bin/brain-games.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "run": "node bin/brain-games.js"
+    "run": "node bin/brain-games.js",
+    "lint-fix": "npx eslint . --fix"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,13 @@
   },
   "homepage": "https://github.com/loopguard/frontend-project-44#readme",
   "dependencies": {
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "^29.2.2",
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "eslint-plugin-jest": "^27.1.3"
   }
 }
