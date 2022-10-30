@@ -4,7 +4,7 @@ const BRAIN_GAMES_WELCOME_MESSAGE = 'Welcome to the Brain Games!\nMay I have you
 
 export const greeting = () => {
   const userName = ask(BRAIN_GAMES_WELCOME_MESSAGE);
-  say(`Hello ${userName}!`);
+  say(`Hello, ${userName}!`);
 
   return userName;
 };
