@@ -10,3 +10,6 @@
 
 ### BrainGcd game:
 [![asciicast](https://asciinema.org/a/bLVAOHQcDiiQFGBAjIalleijV.svg)](https://asciinema.org/a/bLVAOHQcDiiQFGBAjIalleijV?loop=1&autoplay=0&speed=1.7)
+
+### BrainProgression game:
+[![asciicast](https://asciinema.org/a/XGV8PovhJD8DvVCD8K2Rpy53a.svg)](https://asciinema.org/a/XGV8PovhJD8DvVCD8K2Rpy53a?loop=1&autoplay=0&speed=1.7)
